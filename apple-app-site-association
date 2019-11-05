@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "42V7DCQUR8.ru.alfabank.alfatoken",
+        "paths": [
+		"*"
+        ]
+      },
+      {
+        "appID": "42V7DCQUR8.ru.test.auth",
+        "paths": [
+		"*"
+        ]
+      }
+    ]
+  }
+}
